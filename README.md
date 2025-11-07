@@ -37,3 +37,53 @@ Coming soon!
 
 1. Clone the repository:
 ```bash
+git clone https://github.com/standenisa/todo-list-app.git
+```
+
+2. Open `index.html` in your browser
+
+That's it! No build process needed.
+
+## 📁 Project Structure
+```
+todo-list-app/
+│
+├── index.html          # Main HTML file
+├── css/
+│   └── style.css      # Styles
+├── js/
+│   └── app.js         # JavaScript logic
+└── README.md          # Documentation
+```
+
+## 🎯 Key Learning Points
+
+- **DOM Manipulation** - Creating, updating, and removing elements
+- **Event Handling** - Click, input, and keyboard events
+- **Local Storage** - Persisting data across sessions
+- **Array Methods** - Filter, map, forEach for task management
+- **CSS Animations** - Smooth transitions and hover effects
+- **Responsive Design** - Mobile-first approach
+
+## 🔮 Future Enhancements
+
+- [ ] Drag and drop to reorder tasks
+- [ ] Categories/Tags for tasks
+- [ ] Due dates and reminders
+- [ ] Export tasks to JSON
+- [ ] Multiple theme options
+- [ ] Task priority levels
+
+## 👩‍💻 Author
+
+**Denisa Stan**
+- GitHub: [@standenisa](https://github.com/standenisa)
+- LinkedIn: [Denisa Stan](https://www.linkedin.com/in/denisa-stan-590b56261/)
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
+---
+
+⭐ If you like this project, please give it a star!
